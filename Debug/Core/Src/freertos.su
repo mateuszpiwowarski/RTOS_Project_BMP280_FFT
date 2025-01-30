@@ -1,0 +1,11 @@
+../Core/Src/freertos.c:142:6:_putchar	16	static
+../Core/Src/freertos.c:150:7:complexABS	16	static
+../Core/Src/freertos.c:169:6:vApplicationStackOverflowHook	16	static
+../Core/Src/freertos.c:180:6:vApplicationMallocFailedHook	4	static
+../Core/Src/freertos.c:200:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:278:6:StartHeartBeatTask	16	static
+../Core/Src/freertos.c:297:6:StartBmp_280Task	80	static
+../Core/Src/freertos.c:341:6:StartOledTask	80	static
+../Core/Src/freertos.c:412:6:StartFFTTask	88	static
+../Core/Src/freertos.c:480:6:TimerBmpDataCallback	16	static
+../Core/Src/freertos.c:489:6:HAL_ADC_ConvCpltCallback	16	static
